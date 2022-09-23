@@ -1,0 +1,1416 @@
+@media only screen and (max-width:1400px) {
+    .bigtext {
+        font-weight: 400;
+        font-size: 46px;
+        line-height: 62px;
+    }
+
+    .big-img img {
+        width: 500px;
+        height: 500px;
+    }
+
+    .photo img {
+        width: 1200px;
+        height: 550px;
+
+    }
+
+    .town3 p {
+        font-size: 33px;
+    }
+
+    /* .right img{
+        width: 800px;
+    } */
+    .town3 {
+        padding: 0px 10px 0 25px;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .city {
+        width: 1200px;
+        margin: 48px 25px;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-gap: 1px;
+        grid-auto-rows: 667px;
+    }
+
+    .litletext {
+        display: flex;
+        justify-content: space-between;
+        padding: 0 25px;
+        align-items: center;
+    }
+
+    .home {
+        padding: 50px 25px;
+        display: flex;
+    }
+
+    .struct {
+        margin: 10px 25px;
+        height: 470px;
+
+        background-color: #F87200;
+        display: flex;
+        justify-content: space-between;
+    }
+
+
+    .lastright {
+        padding: 9px 25px;
+        background-color: #F87200;
+        width: 387px;
+        height: 330px;
+    }
+
+    .lastone .ddd {
+        margin-bottom: 10px;
+        height: 200px;
+    }
+
+    .lefts {
+        display: none;
+    }
+
+    .struct {
+        margin: 10px 40px;
+        height: 400px;
+
+        background-color: #F87200;
+        display: block;
+    }
+
+    .rights img {
+        height: 400px;
+    }
+}
+
+@media only screen and (max-width:1260px) {
+    .bigtext {
+        font-weight: 400;
+        font-size: 36px;
+        line-height: 62px;
+    }
+
+    .big-img img {
+        width: 400px;
+        height: 400px;
+    }
+
+    .photo img {
+        width: 1000px;
+        height: 500px;
+
+    }
+
+    .town3 p {
+        font-size: 30px;
+    }
+
+    .right img {
+        width: 800px;
+    }
+
+
+    /* .right img{
+        width: 800px;
+    } */
+    .town3 {
+        padding: 0px 10px 0 25px;
+        display: block;
+        width: 800px;
+    }
+
+    .town3 br {
+        display: none;
+    }
+
+    .city {
+        width: 1050px;
+        margin: 48px 15px;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-gap: 1px;
+        grid-auto-rows: 547px;
+    }
+
+    .litletext {
+        display: flex;
+        justify-content: space-between;
+        padding: 0 25px;
+        align-items: center;
+    }
+
+    .home {
+        padding: 30px 25px;
+        display: flex;
+    }
+
+    .lefth img {
+        width: 400px;
+    }
+
+    .righth {
+        border: 1px solid #252930;
+        height: 50%;
+        width: 420px;
+        padding: 32px;
+    }
+
+    .hyi {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 25px !important;
+        line-height: 40px;
+        color: #252930;
+        margin-bottom: 32px;
+    }
+
+    .righth p {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 13px;
+        line-height: 23px;
+        color: #252930;
+        margin-bottom: 31px;
+    }
+
+    .righth span {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 16px;
+        color: #252930;
+    }
+
+    .struct {
+        margin: 10px 40px;
+        height: 400px;
+        width: 400px;
+        background-color: #F87200;
+        display: block;
+    }
+
+    .rights img {
+        height: 400px;
+    }
+
+    .rights {
+        width: 200px;
+        display: block;
+    }
+
+    .lastright {
+        padding: 9px 25px;
+        background-color: #F87200;
+        width: 387px;
+        height: 330px;
+    }
+
+    .lastone .ddd {
+        margin-bottom: 10px;
+        height: 200px;
+    }
+
+    .lefts {
+        display: none;
+    }
+
+    footer {
+        padding: 59px 40px;
+        display: flex;
+        gap: 100px;
+    }
+
+
+
+}
+
+@media only screen and (max-width:1060px) {
+    .bigtext {
+        font-weight: 400;
+        font-size: 29px;
+        line-height: 42px;
+    }
+
+    .big-img img {
+        width: 350px;
+        height: 350px;
+    }
+    
+    .photo img {
+        width: 800px;
+        height: 350px;
+
+    }
+
+    .town3 p {
+        font-size: 30px;
+    }
+
+    .spi {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 28px;
+        line-height: 40px;
+        /* or 110% */
+        color: rgba(37, 41, 48, 0.8);
+    }
+
+    .fool {
+        display: none;
+    }
+
+    .photo {
+        margin-top: 40px;
+    }
+
+    .none {
+        display: none;
+    }
+
+    .spid {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 26px;
+        margin-bottom: 18px;
+    }
+
+    .right img {
+        width: 700px;
+    }
+
+
+    /* .right img{
+        width: 800px;
+    } */
+    .town3 {
+        padding: 0px 10px 0 15px;
+        display: block;
+        width: 800px;
+    }
+
+    .town3 br {
+        display: none;
+    }
+
+    .city {
+        width: 1000px;
+        margin: 38px 15px;
+        display: grid;
+        grid-template-columns: repeat(3, 300px);
+        grid-gap: 1px;
+        grid-auto-rows: 487px;
+    }
+
+    .litletext {
+        display: flex;
+        justify-content: space-between;
+        padding: 0 25px;
+        align-items: center;
+    }
+
+    .home {
+        padding: 30px 15px;
+        display: flex;
+        width: 700px;
+    }
+
+    .lefth img {
+        width: 300px;
+        height: 300px;
+    }
+
+    .righth {
+        border: 1px solid #252930;
+        height: 50%;
+        width: 420px;
+        padding: 32px;
+    }
+
+    .hyi {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 25px !important;
+        line-height: 40px;
+        color: #252930;
+        margin-bottom: 32px;
+    }
+
+    .righth p {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 13px;
+        line-height: 23px;
+        color: #252930;
+        margin-bottom: 31px;
+    }
+
+    .righth span {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 16px;
+        color: #252930;
+    }
+
+    .struct {
+        margin: 10px 15px;
+        height: 400px;
+        width: 400px;
+        background-color: #F87200;
+        display: block;
+    }
+
+    .rights img {
+        height: 400px;
+    }
+
+    .rights {
+        width: 200px;
+        display: block;
+    }
+
+    .lastright {
+        padding: 9px 25px;
+        background-color: #F87200;
+        width: 387px;
+        height: 330px;
+    }
+
+    .lastone .ddd {
+        margin-bottom: 10px;
+        height: 200px;
+    }
+
+    .lefts {
+        display: none;
+    }
+
+    footer {
+        padding: 59px 40px;
+        display: flex;
+        gap: 100px;
+    }
+
+    .lastone {
+        padding: 75px 30px;
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .eee {
+        display: none;
+    }
+
+    .lan {
+        display: none;
+    }
+
+}
+
+@media only screen and (max-width:990px) {
+    .bigtext {
+        font-weight: 400;
+        font-size: 29px;
+        line-height: 42px;
+    }
+    .contact{
+        display: none;
+    }
+    .big-img img {
+        width: 350px;
+        height: 350px;
+    }
+
+    .photo img {
+        width: 800px;
+        height: 350px;
+
+    }
+
+    .town3 p {
+        font-size: 30px;
+    }
+
+    .spi {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 28px;
+        line-height: 40px;
+        /* or 110% */
+        color: rgba(37, 41, 48, 0.8);
+    }
+
+    .photo {
+        margin-top: 40px;
+    }
+
+    .spid {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 26px;
+        margin-bottom: 18px;
+    }
+
+    .right img {
+        width: 700px;
+    }
+
+    .town3 {
+        padding: 0px 10px 0 15px;
+        display: block;
+        width: 800px;
+    }
+
+    .menu {
+        display: block;
+
+    }
+
+    .text1 {
+        display: none;
+    }
+
+    .hbtn {
+        display: none;
+    }
+
+    .city {
+        width: 333px;
+        margin: 38px 15px;
+        display: grid;
+        margin: 0 auto;
+        grid-template-columns: repeat(1, 333px);
+        grid-gap: 1px;
+        grid-auto-rows: 477px;
+    }
+
+    .down {
+        padding: 10px 31px;
+        color: #F87200;
+    }
+
+    .pid {
+        margin-bottom: 0px;
+    }
+
+    .spi br {
+        display: none;
+    }
+
+    .pidr {
+        margin: 10px 0 45px 0;
+    }
+
+    .litletext {
+        display: flex;
+        justify-content: space-between;
+        padding: 0 25px;
+        align-items: center;
+    }
+
+    .home {
+        padding: 30px 15px;
+        display: flex;
+        width: 700px;
+    }
+
+    .lefth img {
+        width: 300px;
+        height: 270px;
+    }
+
+    .righth {
+        border: 1px solid #252930;
+        height: 50%;
+        width: 420px;
+        padding: 32px;
+    }
+
+    .hyi {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 25px !important;
+        line-height: 40px;
+        color: #252930;
+        margin-bottom: 32px;
+    }
+
+    .righth p {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 13px;
+        line-height: 23px;
+        color: #252930;
+        margin-bottom: 31px;
+    }
+
+    .righth span {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 16px;
+        color: #252930;
+    }
+
+    .struct {
+        margin: 10px 15px;
+        height: 400px;
+        width: 400px;
+        background-color: #F87200;
+        display: block;
+    }
+
+    .rights img {
+        height: 400px;
+    }
+
+    .rights {
+        width: 200px;
+        display: block;
+    }
+
+    .lastright {
+        padding: 9px 25px;
+        background-color: #F87200;
+        width: 387px;
+        height: 330px;
+    }
+
+    .lastone .ddd {
+        margin-bottom: 10px;
+        height: 200px;
+    }
+
+    footer {
+        padding: 59px 40px;
+        display: flex;
+        gap: 100px;
+    }
+
+    .lastone {
+        padding: 75px 30px;
+        display: flex;
+        justify-content: space-around;
+    }
+
+}
+@media only screen and (max-width:800px) {
+    .bigtext {
+        font-weight: 500;
+        font-size: 25px;
+        line-height: 42px;
+    }
+
+    .big-img img {
+        width: 300px;
+        height: 300px;
+    }
+
+    .photo img {
+        width: 700px;
+        height: 300px;
+
+    }
+
+    .town3 p {
+        font-size: 23px;
+    }
+
+    .spi {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 23px;
+        line-height: 40px;
+        /* or 110% */
+        color: rgba(37, 41, 48, 0.8);
+    }
+
+    .photo {
+        margin-top: 20px;
+    }
+
+    .spid {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 24x;
+        margin-bottom: 18px;
+    }
+
+    .right img {
+        width: 700px;
+
+    }
+
+    .town3 {
+        padding: 0px 10px 0 15px;
+        display: block;
+        width: 700px;
+    }
+
+
+
+    .city {
+        width: 333px;
+        margin: 38px 15px;
+        display: grid;
+        margin: 0 auto;
+        grid-template-columns: repeat(1, 333px);
+        grid-gap: 1px;
+        grid-auto-rows: 477px;
+    }
+
+    .down {
+        padding: 10px 31px;
+        color: #F87200;
+    }
+
+
+    .pidr {
+        margin: 10px 0 45px 0;
+    }
+
+    .litletext {
+        display: flex;
+        justify-content: space-between;
+        padding: 0 25px;
+        align-items: center;
+    }
+
+    .home {
+        padding: 30px 15px;
+        display: flex;
+        width: 600px;
+    }
+
+    .lefth img {
+        width: 300px;
+        height: 260px;
+    }
+
+    .righth {
+        border: 1px solid #252930;
+        height: 260px;
+        width: 400px;
+        padding: 26px;
+    }
+
+    .hyi {
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px !important;
+        line-height: 20px;  
+        color: #252930;
+        margin-bottom: 32px;
+    }
+
+    .righth p {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 11px;
+        line-height: 23px;
+        color: #252930;
+        margin-bottom: 31px;
+    }
+
+    .righth span {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 16px;
+        color: #252930;
+    }
+
+    .struct {
+        margin: 10px 15px;
+        height: 300px;
+        width: 300px;
+        background-color: #F87200;
+        display: block;
+    }
+
+    .rights img {
+        height: 300px;
+        width: 600px;
+    }
+
+    .rights {
+        width: 200px;
+        display: block;
+    }
+
+    .lastright {
+        padding: 9px 25px;
+        background-color: #F87200;
+        width: 387px;
+        height: 330px;
+    }
+
+    .lastone .ddd {
+        margin-bottom: 10px;
+        height: 200px;
+    }
+
+    footer {
+        padding: 59px 40px;
+        display: flex;
+        gap: 50px;
+    }
+
+    .lastone {
+        padding: 75px 30px;
+        display: flex;
+        justify-content: space-around;
+    }
+
+}
+@media only screen and (max-width:710px) {
+    .bigtext {
+        font-weight: 500;
+        font-size: 22px;
+        line-height: 32px;
+    }
+
+    .big-img img {
+        width: 250px;
+        height: 250px;
+    }
+
+    .photo img {
+        width: 600px;
+        height: 250px;
+
+    }
+
+    .town3 p {
+        font-size: 23px;
+    }
+
+    .spi {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 23px;
+        line-height: 40px;
+        /* or 110% */
+        color: rgba(37, 41, 48, 0.8);
+    }
+
+    .photo {
+        margin-top: 20px;
+    }
+
+    .spid {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 24x;
+        margin-bottom: 18px;
+    }
+
+    .right img {
+        width: 600px;
+
+    }
+
+    .town3 {
+        padding: 0px 10px 0 15px;
+        display: block;
+        width: 400px;
+        
+    }
+
+
+    .left p{
+        font-style: normal;
+        font-weight: 400;
+        font-size: 19px;
+        line-height: 40px;
+        color: #252930;
+    
+    }
+    
+    .left span {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .city {
+        width: 333px;
+        margin: 38px 15px;
+        display: grid;
+        margin: 0 auto;
+        grid-template-columns: repeat(1, 333px);
+        grid-gap: 1px;
+        grid-auto-rows: 477px;
+    }
+
+    .down {
+        padding: 10px 31px;
+        color: #F87200;
+    }
+
+
+    .pidr {
+        margin: 10px 0 45px 0;
+    }
+
+    .litletext {
+        display: flex;
+        justify-content: space-between;
+        padding: 0 25px;
+        align-items: center;
+    }
+
+    .home {
+        padding: 30px 15px;
+        display: flex;
+        width: 600px;
+    }
+
+    .lefth img {
+        width: 300px;
+        height: 260px;
+    }
+
+    .righth {
+        border: 1px solid #252930;
+        height: 260px;
+        width: 400px;
+        padding: 26px;
+    }
+
+    .hyi {
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px !important;
+        line-height: 20px;  
+        color: #252930;
+        margin-bottom: 32px;
+    }
+
+    .righth p {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 11px;
+        line-height: 23px;
+        color: #252930;
+        margin-bottom: 31px;
+    }
+
+    .righth span {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 16px;
+        color: #252930;
+    }
+
+    .struct {
+        margin: 10px 15px;
+        height: 300px;
+        width: 300px;
+        background-color: #F87200;
+        display: block;
+    }
+
+    .rights img {
+        height: 300px;
+        width: 600px;
+    }
+    .dddddddd{
+        display: none;
+    }
+    .rights {
+        width: 200px;
+        display: block;
+    }
+
+    .lastright {
+        padding: 9px 25px;
+        background-color: #F87200;
+        width: 227px;
+        height: 220px;
+    }
+
+    .lastone .ddd {
+        margin-bottom: 10px;
+        height: 100px;
+    }
+    .lastone .fffffffff {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 26px;
+        line-height: 40px;
+        margin-bottom: 24px;
+        color: #252930;
+    }
+    footer {
+        padding: 0px 40px;
+        display: flex;
+        gap: 50px;
+    }
+
+    .lastone {
+        padding: 15px 0px;
+        display: flex;
+        justify-content: space-around;
+    }
+    h3 {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 26px;
+        line-height: 20px;
+        margin-bottom: 19px;
+    }
+    .input{
+        width: 178px;
+        height: 46px;
+        border: none;
+        outline: none;
+        border-bottom: 1px solid black;
+        margin-top: 40px;
+    }
+}
+@media only screen and (max-width:610px) {
+    .bigtext {
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 27px;
+    }
+
+    .big-img img {
+        width: 200px;
+        height: 200px;
+    }
+    .learn{
+        display: none;
+    }
+    .photo img {
+        width: 450px;
+        height: 200px;
+
+    }
+
+    .town3 p {
+        font-size: 20px;
+    }
+
+    .spi {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 40px;
+        /* or 110% */
+        color: rgba(37, 41, 48, 0.8);
+    }
+
+    .photo {
+        margin-top: 10px;
+    }
+
+    .spid {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 24px;
+        margin-bottom: 15px;
+    }
+
+    .right img {
+        width: 400px;
+        height: 150px;
+    }
+
+    .town3 {
+        padding: 0px 10px 0 15px;
+        display: block;
+        width: 400px;
+        
+    }
+
+
+    .left p{
+        font-style: normal;
+        font-weight: 400;
+        font-size: 19px;
+        
+        color: #252930;
+    
+    }
+    
+    .left span {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+       
+    }
+    .city {
+        width: 333px;
+        margin: 38px 15px;
+        display: grid;
+        margin: 0 auto;
+        grid-template-columns: repeat(1, 250px);
+        grid-gap: 1px;
+        grid-auto-rows: 370px;
+    }
+
+    .down {
+        padding: 10px 31px;
+        color: #F87200;
+    }
+
+
+    .pidr {
+        margin: 10px 0 45px 0;
+    }
+
+    .litletext {
+        display: flex;
+        justify-content: space-between;
+        padding: 0 25px;
+        align-items: center;
+    }
+
+    .home {
+        padding: 20px 15px;
+        display: flex;
+        width: 500px;
+    }
+
+    .lefth img {
+        width: 230px;
+        height: 190px;
+    }
+
+    .righth {
+        border: 1px solid #252930;
+        height: 190px;
+        width: 400px;
+        padding: 6px;
+    }
+
+    .hyi {
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px !important;
+ 
+        color: #252930;
+        margin-bottom: 12px;
+    }
+
+    .righth p {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 11px;
+        line-height: 23px;
+        color: #252930;
+        margin-bottom: 11px;
+    }
+
+    .righth span {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 16px;
+        color: #252930;
+    }
+
+    .struct {
+        margin: 10px 15px;
+        height: 200px;
+        width: 300px;
+        background-color: #F87200;
+        display: block;
+    }
+
+    .rights img {
+        height: 200px;
+        width: 400px;
+    }
+    
+    .rights {
+        width: 200px;
+        display: block;
+    }
+    .pidr {
+        margin: 15px 0 15px 0;
+    }
+    .lastright {
+        padding: 9px 25px;
+        background-color: #F87200;
+        width: 227px;
+        height: 220px;
+    }
+
+    .lastone .ddd {
+        margin-bottom: 10px;
+        height: 100px;
+    }
+    .lastone .fffffffff {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 26px;
+        line-height: 40px;
+        margin-bottom: 24px;
+        color: #252930;
+    }
+    footer {
+        padding: 0px 40px;
+        display: flex;
+        gap: 50px;
+    }
+
+    .lastone {
+        padding: 15px 0px;
+        display: flex;
+        justify-content: none;
+    }
+    h3 {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 26px;
+        line-height: 20px;
+        margin-bottom: 19px;
+    }
+    .lastleft{
+        display: none;
+    }
+    .input{
+        width: 178px;
+        height: 46px;
+        border: none;
+        outline: none;
+        border-bottom: 1px solid black;
+        margin-top: 40px;
+    }
+}
+@media only screen and (max-width:500px) {
+    .bigtext {
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 22px;
+    }
+
+    .big-img img {
+        width: 150px;
+        height: 150px;
+    }
+    .photo img {
+        width: 300px;
+        height: 150px;
+
+    }
+
+    .town3 p {
+        font-size: 15px;
+    }
+
+    .spi {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 40px;
+        /* or 110% */
+        color: rgba(37, 41, 48, 0.8);
+    }
+
+    .photo {
+        margin-top: 0px;
+    }
+
+    .spid {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;
+        margin-bottom: 15px;
+    }
+
+    .right img {
+        width: 300px;
+        height: 150px;
+    }
+
+    .town3 {
+        padding: 0px 10px 0 15px;
+        display: block;
+        width: 400px;
+        
+    }
+
+
+    .left p{
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        
+        color: #252930;
+    
+    }
+    
+    .left span {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+       
+    }
+    .city {
+        width: 143px;
+        margin: 38px 15px;
+        display: grid;
+        margin: 0 auto;
+        grid-template-columns: repeat(1, 180px);
+        grid-gap: 1px;
+        grid-auto-rows: 320px;
+    }
+
+    .down {
+        padding: 5px 11px;
+        color: #F87200;
+    }
+
+
+    .pidr {
+        margin: 0;
+    }
+
+    .litletext {
+        display: flex;
+        justify-content: space-between;
+        padding: 0 15px;
+        align-items: center;
+    }
+
+    .home {
+        padding: 20px 15px;
+        display: flex;
+        width: 350px;
+    }
+
+    .lefth img {
+        width: 150px;
+        height: 170px;
+    }
+
+    .righth {
+        border: 1px solid #252930;
+        height: 170px;
+        width: 400px;
+        padding: 6px;
+    }
+
+    .hyi {
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px !important;
+ 
+        color: #252930;
+        margin-bottom: 12px;
+    }
+
+    .righth p {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 11px;
+        line-height: 23px;
+        color: #252930;
+        margin-bottom: 11px;
+    }
+
+    .righth span {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 16px;
+        color: #252930;
+    }
+
+    .struct {
+        margin: 10px 15px;
+        height: 180px;
+        width: 180px;
+        background-color: #F87200;
+        display: block;
+    }
+
+    .rights img {
+        height: 180px;
+        width: 300px;
+    }
+    
+    .rights {
+        width: 200px;
+        display: block;
+    }
+    .pidr {
+        margin: 15px 0 5px 0;
+    }
+    .lastright {
+        padding: 9px 25px;
+        background-color: #F87200;
+        width: 207px;
+        height: 220px;
+    }
+
+    .lastone .ddd {
+        margin-bottom: 10px;
+        height: 100px;
+    }
+    .lastone .fffffffff {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 40px;
+        margin-bottom: 24px;
+        color: #252930;
+    }
+    footer {
+        padding: 20px 20px;
+        display: flex;
+        gap: 30px;
+    }
+
+    .lastone {
+        padding: 15px 15px;
+        display: block;
+    }
+    h3 {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 26px;
+        line-height: 20px;
+        margin-bottom: 9px;
+    }
+    .input{
+        width: 158px;
+        height: 46px;
+        border: none;
+        outline: none;
+        border-bottom: 1px solid black;
+        margin-top: 40px;
+    }
+}
